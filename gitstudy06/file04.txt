@@ -1,1 +1,2 @@
 local04
+local04 두
